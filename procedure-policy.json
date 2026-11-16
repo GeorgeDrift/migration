@@ -1,0 +1,119 @@
+{
+  "addUserToExperimentQuestions": {
+    "sha256": "637f35627b5e7975f117d86f029b6ca94cec4cb3bfcc4f811a53f9f476aad71c",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "add_question_user_shared": {
+    "sha256": "8623e4b517ed1feae667a43a40f006f1805b75c27dfbbbc1858807dd11b86d29",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "CheckExperimentVariableCoverage": {
+    "sha256": "0c8762282bda8c896d167357e239d842deb17da741d0cbd2a629b4eb9fd75db0",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "clone_experiment": {
+    "sha256": "635910b6fbf48765d09dcb10f913e9164b1a27c62d3ff197afa51da6316abd0a",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "create_experiment_store": {
+    "sha256": "96ca0605f8bf642c9e707b37fd89f2e04b622fc68096a963bf3e567ab2f6bd06",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "create_onboarding_question": {
+    "sha256": "ac06d2caf4cd935d0c191a20713c99d6b6d1a910481a4731435f27c5254b1cab",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "create_study_from_existing": {
+    "sha256": "c6a81210d0b173483ac55cfbf65aecdf534601e01fb115f17d2d9e46f208c294",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "insert_onboarding_question": {
+    "sha256": "5fb7c44ad20c3501662b94982e61aed713c4e8c89abd4529ecc89767527c98d9",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "insert_user_without_wake_time": {
+    "sha256": "4cf3dc61a350adc38778871b56bb1adace45fe724dbf53829d72bf1466e7b2ae",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "insert_user_with_experiment": {
+    "sha256": "72fe02a95173f86d5f77cba43052e2127c28f01e26966c0a2f401f655309690f",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "swap_onboarding_question_order": {
+    "sha256": "4173a650a8aed107817ed7c14bc83b6ffdfefed149a1458b767082f32179b03b",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "swap_question_order": {
+    "sha256": "9283b23229a1822a0a557edcc5df1e88280ab11046494b9f6a7f631ae3f50644",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  },
+  "syncUserQuestionAssociations": {
+    "sha256": "1a495a2ab5ed8f524fe3f2e19700e996c5b24464ea17baf4fcc79d5cdbf18dac",
+    "definer": {
+      "user": "root",
+      "host": "localhost"
+    },
+    "sqlMode": "IGNORE_SPACE,NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION",
+    "identity": "[{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"intern\",\"user\":\"root\"},{\"host\":\"127.0.0.1\",\"port\":3306,\"schema\":\"migration_target\",\"user\":\"root\"}]"
+  }
+}

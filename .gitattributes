@@ -1,0 +1,6 @@
+cloudshell-start.sh text eol=lf
+cloudshell-bootstrap.sh text eol=lf
+cloudshell-run.sh text eol=lf
+migrations/*.sql text eol=lf
+migrations/atlas.sum text eol=lf
+down-migrations/*.sql text eol=lf

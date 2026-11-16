@@ -1,0 +1,11 @@
+{
+  "202610020001_create_target_tables.sql": {
+    "sha256": "4362dd3c29d1cef70fe238d0fbda3999bb7de42eaf17b17caf28ff5f84bf0939",
+    "scope": "schema",
+    "risk": "additive",
+    "down": {
+      "sha256": "44543e642d624e2b264d8a0f10a86134f10549eeb6a24a1477be3d385e73b181",
+      "risk": "destructive"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.env
+.env*
+results.jsonl
+
+atlas-local.exe
+/backup/
+/liquib/
